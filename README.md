@@ -15,3 +15,16 @@ Each rover will be finished sequentially, which means that the second rover won'
 
 Output:
 The output for each rover should be its final co-ordinates and heading.
+
+Example
+
+Test input:
+5 5
+1 2 N
+LMLMLMLMM
+3 3 E
+MMRMMRMRRM
+
+Test output:
+1 3 N
+5 1 E
